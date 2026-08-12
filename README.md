@@ -1,8 +1,10 @@
 # 🛡️ TryHackMe - Pre Security
-<img width="1485" height="390" alt="Screenshot 2026-08-12 163806" src="https://github.com/user-attachments/assets/a2e0bc72-8995-4a43-bf00-f81e4562eaab" />
+<img width="676" height="173" alt="image" src="https://github.com/user-attachments/assets/95e95c78-5e16-4684-936c-e62bf4903366" />
+
 
 > Building a strong cybersecurity foundation through hands-on labs and practical learning on TryHackMe.
-<img width="712" height="665" alt="Screenshot 2026-08-12 171248" src="https://github.com/user-attachments/assets/98046d24-8044-4588-8dc5-280d7a7d0a73" />
+<img width="729" height="860" alt="Screenshot 2026-08-12 175507" src="https://github.com/user-attachments/assets/76071789-9c9c-4961-a597-907ec83231fa" />
+
 
 
 ---
